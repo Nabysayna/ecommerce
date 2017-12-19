@@ -1,0 +1,49 @@
+#accordion > h3{
+	background-color: #357AB7;
+	color:white;
+	font-size: 13PX;
+
+}
+#accordion > div{
+	margin:0px;
+	padding-left: 5px;
+	padding-right: 0px; 
+	padding-top: 0px;
+	height: auto;
+
+}
+#accordion{
+	margin:0px;
+	padding: 0px;
+}
+#accordion1 >li > h3{
+	background-color: #26C4EC;
+	color:white;
+
+}
+.zone > li a{
+	color:#357AB7;
+	margin:0px;
+	padding: 0px;
+}
+#accordion1 div{
+	padding: 0 0 0 20px;
+	margin:0px;
+	height: auto;
+}
+.zone > li{
+	margin-top:0px;
+}
+#accordion div ul li a:hover{
+	background-color: blue;
+	color:white; 
+
+}
+#id > div {
+	margin : 10px;
+	border: 2px solid grey;
+	cursor: pointer;
+	border-radius:50%;
+	width: 20px;
+	height: 20px;
+}
